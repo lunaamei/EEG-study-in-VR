@@ -8,5 +8,4 @@ The VR experiment was custom-made and conducted with the help of Unity.
 
 The data analysis was done with Python.
 
-# Designing-an-EEG-study-in-VR
-# Designing-an-EEG-study-in-VR
+
